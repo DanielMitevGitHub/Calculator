@@ -24,3 +24,15 @@ Ein Taschenrechner, der mit C# und Windows Forms entwickelt wurde.
 ## Projektziel
 
 Ziel des Projekts war es, die Grundlagen der C#-Programmierung sowie die Entwicklung grafischer Benutzeroberflächen und die Verarbeitung mathematischer Ausdrücke praktisch anzuwenden.
+
+## Installation und Start
+
+1. Repository herunterladen oder mit Git klonen.
+2. Die Projektmappe `Rechner.slnx` in Visual Studio öffnen.
+3. Prüfen, ob die benötigten .NET-Komponenten installiert sind.
+4. Das Projekt mit `F5` starten.
+
+**Voraussetzungen:**
+- Windows
+- Visual Studio mit Unterstützung für .NET-Desktopentwicklung
+- Passendes .NET SDK
