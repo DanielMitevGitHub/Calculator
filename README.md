@@ -1,6 +1,8 @@
 # Calculator – C# Windows Forms
 
-![Calculator Screenshot](images/calculator.png)
+<p align="center">
+  <img src="images/calculator.png" alt="Calculator Screenshot" width="300">
+</p>
 
 Ein Taschenrechner, der mit C# und Windows Forms entwickelt wurde.
 
