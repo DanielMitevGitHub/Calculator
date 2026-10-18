@@ -1,5 +1,7 @@
 # Calculator – C# Windows Forms
 
+![Calculator Screenshot](images/calculator.png)
+
 Ein Taschenrechner, der mit C# und Windows Forms entwickelt wurde.
 
 ## Funktionen
